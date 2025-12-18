@@ -1,0 +1,10 @@
+link git
+https://github.com/htkchi2212-collab/english-speaking-app
+database diagram
+https://dbdiagram.io/d/doan-693b1276e877c63074814638
+class diagram
+https://online.visual-paradigm.com/share.jsp?id=343334363836392d33
+state diagram
+https://online.visual-paradigm.com/share.jsp?id=343334363836392d34
+usecase diagram
+https://drive.google.com/file/d/1Ri6S2Kn92a6_px1ilWA-nnfMKNKfCava/view?usp=sharing
